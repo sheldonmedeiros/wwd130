@@ -1,0 +1,16 @@
+.content {
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+    color: aqua;
+    text-decoration: none;
+}
+.background{
+    height: 725px;
+    background-color: black;
+    color: aliceblue;
+}
+.footer{
+    font-size: 1.2em;
+    text-decoration: underline;
+}
